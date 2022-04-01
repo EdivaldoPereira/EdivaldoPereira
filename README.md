@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/edivaldopereira">
-  <img height="190em" width="400px" src="https://github-readme-stats.vercel.app/api?username=edivaldopereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edivaldopereira&layout=compact&langs_count=7&theme=dark"/>
+  <img height="250px" width="400px" src="https://github-readme-stats.vercel.app/api?username=edivaldopereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="250px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edivaldopereira&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Ed-Js" height="28" width="85" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
