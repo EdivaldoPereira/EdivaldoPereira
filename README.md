@@ -1,7 +1,7 @@
 ### Olá, sou o Edivaldo Pereira
 
 
-- 🔭 Hoje eu trabalho com service desk na empresa Hepta Tecnologia  e freelancer front-end
+- 🔭Hepta Tecnologia 
 - 🌱 Atualmente estudando tecnologias voltadas ao front-end
 - ✉️ Contate-me no e-mail edivaldo.pereira@gmail.com
 
