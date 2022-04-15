@@ -13,6 +13,9 @@
   <img align="center" alt="Ed-Ts" height="28" width="85" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Ed-React" height="28" width="85" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Ed-Python" height="28" width="85" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Ed-Go" height="28" width="65" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img align="center" alt="Ed-Dart" height="28" width="85" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=whitee">
+  <img align="center" alt="Ed-Elixir" height="28" width="85" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
 </div>
 <div align="center">
   <a href="https://github.com/edivaldopereira">
