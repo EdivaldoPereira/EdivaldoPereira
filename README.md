@@ -2,7 +2,7 @@
 
 
 - 🔭Hepta Tecnologia 
-- 🌱 Atualmente estudando tecnologias voltadas ao front-end
+- 🌱 Atualmente estudando tecnologias voltadas ao desenvolvimento mobile
 - ✉️ Contate-me no e-mail edivaldo.pereira@gmail.com
 
  <div style="display: inline_block"><br>
